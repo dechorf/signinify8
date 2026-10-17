@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchBucket</Code><Message>The specified bucket does not exist</Message><BucketName>mockuptestgm</BucketName><RequestId>8ACR5GZK2H52GJC4</RequestId><HostId>gPswaJ69P5uRQLUBPK6tGwwNfGDPzjSM/jM1CBwyLOVAtE7kXOP+Dszh6n2+jF17ZA2lHgyVAp4=</HostId></Error>
